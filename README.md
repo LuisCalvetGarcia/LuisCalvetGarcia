@@ -10,6 +10,15 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
+<p align="left">
+  <a href="URL_DE_TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+  </a>
+</p>
+
 ---
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="380">
@@ -33,6 +42,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisCalvetGarcia/LuisCalvetGarcia/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LuisCalvetGarcia/LuisCalvetGarcia/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCalvetGarcia&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCalvetGarcia&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160"/>
+</p>
 
 <br>
 
