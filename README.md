@@ -11,12 +11,9 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <p align="left">
-  <a href="URL_DE_TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:TU_CORREO@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
+  <a href="URL_DE_TU_LINKEDIN" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="45"/></a>&nbsp;&nbsp;
+  <a href="URL_DE_TU_INSTAGRAM" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="45"/></a>&nbsp;&nbsp;
+  <a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="45"/></a>
 </p>
 
 ---
