@@ -20,7 +20,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="380">
 
-<h4>Hi! I am a Computer Engineering student passionate about technology and software development. I am currently focusing my learning on building solid projects and continuing to expand my knowledge.</h4>
+<h4>Hi! I am a Computer Engineering student specializing in Artificial Intelligence and Computation. I am passionate about technology and software development, and I enjoy learning by building projects that challenge me and help me better understand how systems truly work.</h4>
 
 <ul>
   <li><h4>💻 <b>Interests:</b> Artificial Intelligence, Software Development, Data Structures & Algorithms, Databases, Technology</h4></li>
