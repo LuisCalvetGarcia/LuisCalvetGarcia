@@ -25,8 +25,7 @@
 <ul>
   <li><h4>💻 <b>Interests:</b> Artificial Intelligence, Software Development, Data Structures & Algorithms, Databases, Technology</h4></li>
   <li><h4>🚀 <b>Currently learning:</b> Programming languages, Data Structures, Databases, and AI-related concepts</h4></li>
-  <li><h4>📫 <b>How to reach me:</b> (You can add your email or LinkedIn link here)</h4></li>
-</ul>
+  <li><h4>⚡ <b>Beyond coding:</b> Beyond coding: When I step away from the keyboard, I like to disconnect by listening to music, watching movies, staying active through sports, traveling whenever I can, and enjoying     video games.</h4></li></ul>
 
 <br clear="both">
 
