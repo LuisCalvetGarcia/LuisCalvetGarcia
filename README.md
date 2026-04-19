@@ -13,7 +13,7 @@
 <p align="left">
   <a href="URL_DE_TU_LINKEDIN" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="45"/></a>&nbsp;&nbsp;
   <a href="URL_DE_TU_INSTAGRAM" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="45"/></a>&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="45"/></a>
+  <a href="mailto:luisspoti2005@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="45"/></a>
 </p>
 
 ---
