@@ -23,8 +23,8 @@
 <h4>Hi! I am a Computer Engineering student passionate about technology and software development. I am currently focusing my learning on building solid projects and continuing to expand my knowledge.</h4>
 
 <ul>
-  <li><h4>💻 <b>Interests:</b> (Write your interests here, e.g., Web Development, Artificial Intelligence, Cybersecurity...)</h4></li>
-  <li><h4>🚀 <b>Currently learning:</b> (Write what you are studying now, e.g., Java, Python, React...)</h4></li>
+  <li><h4>💻 <b>Interests:</b> Artificial Intelligence, Software Development, Data Structures & Algorithms, Databases, Technology</h4></li>
+  <li><h4>🚀 <b>Currently learning:</b> Programming languages, Data Structures, Databases, and AI-related concepts</h4></li>
   <li><h4>📫 <b>How to reach me:</b> (You can add your email or LinkedIn link here)</h4></li>
 </ul>
 
