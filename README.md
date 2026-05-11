@@ -41,11 +41,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCalvetGarcia&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCalvetGarcia&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="160"/>
-</p>
-
 <br>
 
 <h3 align="center">Languages and Tools</h3>
